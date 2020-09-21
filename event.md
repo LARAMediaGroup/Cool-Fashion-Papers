@@ -12,4 +12,5 @@
 11. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
 12. Fashion IQ Challenge [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/fashion-iq?authuser=0) [[ICCV 2019]](https://sites.google.com/view/lingir/fashion-iq)
 13. DeepFashion2 Challenge [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/deepfashion2?authuser=0) [[ICCV 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
-
+14. Reshape Global Event - 'Sensing Materialities’[[Barcelona 2018]](https://wtvox.com/digital/reshape-2018-contest/)
+15. Reshape Symposium - 'Cognified Matter' [[Barcelona 2019]](https://wtvox.com/digital/reshape-2019-innovation-and-digital-transformation-in-the-fashion-industry/)

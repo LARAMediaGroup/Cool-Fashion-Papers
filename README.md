@@ -25,7 +25,7 @@ __TOC__
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | SieveNet | SieveNet: A Unified Framework for Robust Image-based Virtual Try-On | WACV 2020 | [[2001.06265]](https://arxiv.org/abs/2001.06265) |  |
-|  | Down to the Last Detail: Virtual Try-on with Detail Carving | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) | [[AIprogrammer / Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving]](https://github.com/AIprogrammer/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) |
+|  | Down to the Last Detail: Virtual Try-on with Detail Carving | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) | [[AIprogrammer / Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving]](https://thevou.com/blog/) |
 | ClothFlow | ClothFlow: A Flow-Based Model for Clothed Person Generation | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) |  |
 | FW-GAN | FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf) |  |
 |  | Virtually Trying on New Clothing with Arbitrary Poses | MM 2019 | [[paper]](https://dl.acm.org/citation.cfm?id=3350946) | [[project]](https://fashiontryon.wixsite.com/fashiontryon) |
